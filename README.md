@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Janhavi0507
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning python and web development with HTML-CSS-django-mongodb
+- 🌱 I’m currently learning python and web development with HTML-CSS-javascript-django-mongodb
 - 💞️ I’m looking to collaborate on backend development projects
 - 📫 How to reach me ...
 
